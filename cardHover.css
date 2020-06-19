@@ -97,10 +97,10 @@ body {
   background-image: url("rockPaperScissors.jpg")
 }
 .card:nth-child(3):before {
-  background-image: url("gitHub.jpg")
+  background-image: url("websiteScreenshot.jpg")
 }
 .card:nth-child(4):before {
-  background-image: url("codePen.jpg")
+  background-image: url("gitHub.jpg")
 }
 
 .content {
